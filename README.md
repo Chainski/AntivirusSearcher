@@ -29,14 +29,14 @@ Arcabit                   Elastic                   NANO-Antivirus            VB
 Avast                     Emsisoft                  Norton                    VIPRE                   
 Avira                     F-Secure                  Netflow                   ViRobot                 
 Baidu                     Fortinet                  Palo Alto Networks        VirIT                   
-BitDefender               G DATA                    Panda                     Warsaw Technology       
-BitDefenderTheta          GData                     QuickHeal                 Webroot                 
-Bkav Pro                  Google                    Rising                    Windows Defender                 
-CMC                       Gridinsoft                SUPERAntiSpyware          Yandex       
-ClamAV                    Ikarus                    Sangfor Engine Zero       Zillya                 
-Comodo                    Jiangmin                  SecureAge                 ZoneAlarm by Check Point                 
-CrowdStrike Falcon        K7AntiVirus               SentinelOne               Zoner
-Cybereason                K7GW                      Sophos                                       
+BitDefender               G DATA                    Panda                     Warsaw Technology    
+QuickHeal                 Webroot                   Rising                    Windows Defender  
+Bkav Pro                  Google                    SUPERAntiSpyware          Zillya                         
+CMC                       Gridinsoft                Yandex                    ZoneAlarm by Check Point  
+ClamAV                    Ikarus                    Sangfor Engine Zero       Zoner                
+Comodo                    Jiangmin                  SecureAge                                 
+CrowdStrike Falcon        K7AntiVirus               SentinelOne               
+Cybereason                K7GW                      Sophos                                                    
 ```
 ## Usage 
 
