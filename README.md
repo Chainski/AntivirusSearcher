@@ -24,19 +24,18 @@ Acronis                   Dell PBA                  MAX                       Te
 Ad-Aware                  DrWeb                     Malwarebytes              Trapmine                
 AhnLab-V3                 ESET-NOD32                MaxSecure                 Trellix                 
 Alibaba                   ESM Endpoint              McAfee                    TrendMicro              
-Antiy-AVL                 eScan                     McAfee-GW-Edition         TrendMicro-HouseCall    
-Arcabit                   Elastic                   NANO-Antivirus            VBA32                   
-Avast                     Emsisoft                  Norton                    VIPRE                   
-Avira                     F-Secure                  Netflow                   ViRobot                 
-Baidu                     Fortinet                  Palo Alto Networks        VirIT                   
-BitDefender               G DATA                    Panda                     Warsaw Technology    
-QuickHeal                 Webroot                   Rising                    Windows Defender  
-Bkav Pro                  Google                    SUPERAntiSpyware          Zillya                         
-CMC                       Gridinsoft                Yandex                    ZoneAlarm by Check Point  
-ClamAV                    Ikarus                    Sangfor Engine Zero       Zoner                
-Comodo                    Jiangmin                  SecureAge                                 
-CrowdStrike Falcon        K7AntiVirus               SentinelOne               
-Cybereason                K7GW                      Sophos                                                    
+Antiy-AVL                 eScan                     NANO-Antivirus            TrendMicro-HouseCall    
+Arcabit                   Elastic                   Norton                    VBA32                   
+Avast                     Emsisoft                  Netflow                   VIPRE                   
+Avira                     F-Secure                  Palo Alto Networks        ViRobot                 
+Baidu                     Fortinet                  Panda                     VirIT                   
+BitDefender               GData                     QuickHeal                 Warsaw Technology       
+Bkav Pro                  Google                    Rising                    Webroot                 
+CMC                       Gridinsoft                SUPERAntiSpyware          Windows Defender        
+ClamAV                    Ikarus                    Sangfor Engine Zero       Yandex                  
+Comodo                    Jiangmin                  SecureAge                 Zillya                  
+CrowdStrike Falcon        K7AntiVirus               SentinelOne               ZoneAlarm by Check Point
+Cybereason                K7GW                      Sophos                    Zoner                                           
 ```
 ## Usage 
 
