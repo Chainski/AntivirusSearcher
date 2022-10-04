@@ -5,7 +5,7 @@
 
 ## AntivirusSearcher
 
-## A console application that checks for installed & running antivirus products. 
+A console application that checks for installed & running antivirus products. 
 It is used to detect the list of currently installed AV products & the active AVs running in realtime on the target machine.
 It is judged locally using powershell that checks for installed AV services, no need to connect to the Internet.
 
