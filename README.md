@@ -31,12 +31,12 @@ Avira                     F-Secure                  Netflow                   Vi
 Baidu                     Fortinet                  Palo Alto Networks        VirIT                   
 BitDefender               G DATA                    Panda                     Warsaw Technology       
 BitDefenderTheta          GData                     QuickHeal                 Webroot                 
-Bkav Pro                  Google                    Rising                    Webroot                 
-CMC                       Gridinsoft                SUPERAntiSpyware          Windows Defender        
-ClamAV                    Ikarus                    Sangfor Engine Zero       Yandex                  
-Comodo                    Jiangmin                  SecureAge                 Zillya                  
-CrowdStrike Falcon        K7AntiVirus               SentinelOne               ZoneAlarm by Check Point
-Cybereason                K7GW                      Sophos                    Zoner                   
+Bkav Pro                  Google                    Rising                    Windows Defender                 
+CMC                       Gridinsoft                SUPERAntiSpyware          Yandex       
+ClamAV                    Ikarus                    Sangfor Engine Zero       Zillya                 
+Comodo                    Jiangmin                  SecureAge                 ZoneAlarm by Check Point                 
+CrowdStrike Falcon        K7AntiVirus               SentinelOne               Zoner
+Cybereason                K7GW                      Sophos                                       
 ```
 ## Usage 
 
