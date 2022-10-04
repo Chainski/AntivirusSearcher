@@ -1,5 +1,4 @@
 <a href="https://github.com/chainski/AntivirusSearcher"><img src="https://img.shields.io/badge/OPEN--SOURCE-YES-green"></a>
-<a href="https://github.com/chainski/AntivirusSearcher"><img src="https://img.shields.io/badge/PYTHON-3.10-green"></a>
 <a href="https://github.com/chainski/AntivirusSearcher"><img src="https://img.shields.io/badge/license-GPL--3.0-orange"></a> 
 <a href="https://github.com/chainski/AntivirusSearcher/releases"><img src="https://img.shields.io/github/v/release/chainski/AntivirusSearcher?style=plastic"></a>
 
